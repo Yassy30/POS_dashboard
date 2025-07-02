@@ -44,4 +44,13 @@ A modern, web-based **Point of Sale (POS) dashboard** system tailored for restau
 
 ```bash
 git clone https://github.com/Yassy30/POS_dashboard.git
-cd pos-dashboard
+cd pos-dashboard 
+```
+---
+
+## 👩‍💻 Author
+Yassmina Jabrouni<br>
+ -📧 yasminajabrouni@gmail.com <br>
+ -🌐 My Portfolio [https://yasmina-jabrouni.netlify.app/]
+
+---
